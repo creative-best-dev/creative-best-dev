@@ -52,10 +52,12 @@
 
 ---
 
-### Top Usage Languages:
+## :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xTijan&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xTijan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 
