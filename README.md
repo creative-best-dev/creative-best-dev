@@ -62,12 +62,3 @@
 
 
 
-### Top Creatures
-
-
-<a href="https://tellimer.com/">
-  <img align="center" width=45% src="https://github.com/FelixVibeke/About-me/blob/main/public/readme/11.png" />
-</a>
-<a href="https://anatha.io/](https://nexthink.com/">
-  <img align="center" width=45% src="https://github.com/FelixVibeke/About-me/blob/main/public/readme/44.png" />
-</a>
